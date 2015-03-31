@@ -1,5 +1,12 @@
 # Metodos Numericos
 
-Materia del Primer Parcial de Wxmaxima
+## Materia del Primer Parcial de Wxmaxima
+========
 
-## Bisección Newton-Raphson  Secante
+>**Bisección**
+
+>**Newton-Raphson**
+
+>**Secante**
+
+
