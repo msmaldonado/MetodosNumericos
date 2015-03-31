@@ -1,5 +1,18 @@
 # MetodosNumericos
 
-Practicas Métodos Numéricos
-=======
+## Practicas Parciales
+
++ Primer Parciales
+========
+
+
+>**Método Bisección**
+
+>**Método Newton-Raphson**
+
+>**Método Secante**
+
+
+
+
 
