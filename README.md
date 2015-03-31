@@ -1,8 +1,8 @@
-# MetodosNumericos
+# Metodos Numericos
 
 ## Practicas Parciales
 
-+ Primer Parcial
++ **Primer Parcial**
 
 >**Método Bisección**
 
@@ -11,6 +11,8 @@
 >**Método Secante**
 
 
++ **Segundo Parcial**
 
+>**Iteración Funcional**
 
-
+>**Hörner**
