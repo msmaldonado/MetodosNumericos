@@ -1,6 +1,8 @@
-# Metodos Numericos
+# Métodos Numericos
 
-## Practicas Parciales
+## Prácticas Parciales
+
+### TEMA 1
 
 + **Primer Parcial**
 
