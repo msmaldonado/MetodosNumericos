@@ -2,9 +2,7 @@
 
 ## Practicas Parciales
 
-+ Primer Parciales
-========
-
++ Primer Parcial
 
 >**Método Bisección**
 
