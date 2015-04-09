@@ -9,4 +9,9 @@
 
 >**Secante**
 
+## Materia del Segundo Parcial de Wxmaxima
+========
 
+>**Iteración Funcional**
+
+>**Hörner**
