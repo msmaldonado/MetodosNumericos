@@ -1,4 +1,4 @@
-# Metodos Numericos
+# Métodos Numéricos
 
 ## Materia del Primer Parcial de Wxmaxima
 ========
