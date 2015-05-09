@@ -18,3 +18,7 @@
 >**Iteración Funcional**
 
 >**Hörner**
+
++ **Primera Entrega**
+
+>**Romberg**
