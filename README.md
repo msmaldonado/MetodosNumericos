@@ -19,6 +19,6 @@
 
 >**Hörner**
 
-+ **Primera Entrega**
+### Primera Entrega
 
 >**Romberg**
