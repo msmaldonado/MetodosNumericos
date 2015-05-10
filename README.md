@@ -19,6 +19,8 @@
 
 >**Hörner**
 
-### Primera Entrega
+### ENTREGAS
 
->**Romberg**
++ **Primera Entrega**
+
+>**Integración de Romberg**

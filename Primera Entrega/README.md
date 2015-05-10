@@ -3,6 +3,6 @@
 ## Materia de la Primera entrega
 ========
 
->**Romberg**
+>**Integración de Romberg**
 
 
